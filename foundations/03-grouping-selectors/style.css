@@ -9,7 +9,7 @@
 
 }
 
-button{
+.click-me, .no-click-me{
     font-size: 28px;
     font-family: Verdana, Helvetica, sans-serif;
 }
